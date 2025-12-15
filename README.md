@@ -73,15 +73,16 @@ A refined take on Solarized Dark.
 
 ### Solarized Dark
 
-![Solarized Dark](./preview/solarized-dark.png)
+<img width="1936" height="3416" alt="image" src="https://github.com/user-attachments/assets/1d76a961-45eb-4c02-8395-7c2f444a675d" />
+
 
 ### Solarized Light
 
-![Solarized Light](./preview/solarized-light.png)
+<img width="1936" height="3416" alt="image" src="https://github.com/user-attachments/assets/5b5f8bd8-e114-4c7d-ac59-d86ac81741dd" />
 
 ### Solarized Osaka
 
-![Solarized Osaka](./preview/solarized-osaka.png)
+<img width="1936" height="3416" alt="image" src="https://github.com/user-attachments/assets/4a28ad79-16de-4c0e-89a1-2d88574c6479" />
 
 ---
 
