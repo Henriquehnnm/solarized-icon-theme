@@ -1,0 +1,51 @@
+{
+  "name": "solarized-icon-theme",
+  "displayName": "Solarized Icon Theme",
+  "description": "A clean and faithful Solarized icon theme for Visual Studio Code, with Dark, Light and Osaka variants.",
+  "version": "1.0.0",
+  "publisher": "Henriquehnnm",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Henriquehnnm/Solarized-icon-theme.git"
+  },
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Solarized",
+    "Icon Theme",
+    "Solarized Theme",
+    "Solarized Osaka",
+    "Icon",
+    "Icons",
+    "Minimalist",
+    "Dark",
+    "Light"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "iconThemes": [
+      {
+        "id": "solarized-dark",
+        "label": "Solarized Dark",
+        "path": "./icons/solarized-dark/solarized-dark.json"
+      },
+      {
+        "id": "solarized-light",
+        "label": "Solarized Light",
+        "path": "./icons/solarized-light/solarized-light.json"
+      },
+      {
+        "id": "solarized-osaka",
+        "label": "Solarized Osaka",
+        "path": "./icons/solarized-osaka/solarized-osaka.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "playwright": "^1.57.0"
+  }
+}
